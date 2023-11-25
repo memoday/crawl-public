@@ -6,7 +6,7 @@ import time
 
 start = time.time()
 
-nickname = '넴촉'
+nickname = '창일'
 icon = [None,None,'리부트','리부트2','오로라','레드','이노시스','유니온','스카니아','루나','제니스','크로아','베라','엘리시움','아케인','노바']
 w_num = {
     '리부트': 1,
